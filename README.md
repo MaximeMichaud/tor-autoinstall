@@ -6,10 +6,10 @@ wget https://raw.githubusercontent.com/MaximeMichaud/tor-autoinstall/master/tor-
 chmod +x tor-autoinstall.sh
 ./tor-autoinstall.sh
 ```
-## Compatibilité
-Veuillez considérer les dernières versions comme étant plus stable.
+## Compatibility
+Please consider latest versions as more stable.
 
-Le script supporte ces OS:
+The script support these OS:
 
 |        |   |
 |--------|---|
@@ -20,6 +20,12 @@ Le script supporte ces OS:
 | Ubuntu 18.04 | ❌  |
 | Ubuntu 20.04 | ❌  |
 | CentOS 7 | ❌  |
+
+|        |   |
+|--------|---|
+| Relay | ✅	  |
+| Bridge | ❌ |
+| Exit Node  | ❌ |
 ## Features
 * Official Tor repository
 * [Nyx](https://nyx.torproject.org/)
@@ -27,4 +33,4 @@ Le script supporte ces OS:
 ## To-Do
 https://github.com/MaximeMichaud/mineweb-install/projects/1
 ## FAQ
-**MERCI DE REGARDER LE [WIKI](https://github.com/MaximeMichaud/tor-autoinstall/wiki/FAQ)**
+**THANK TO CHECK THE WIKI [WIKI](https://github.com/MaximeMichaud/tor-autoinstall/wiki/FAQ)**
