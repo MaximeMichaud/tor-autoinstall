@@ -33,4 +33,4 @@ The script support these OS:
 ## To-Do
 https://github.com/MaximeMichaud/tor-autoinstall/projects/2
 ## FAQ
-**THANK TO CHECK THE WIKI [WIKI](https://github.com/MaximeMichaud/tor-autoinstall/wiki/FAQ)**
+**PLEASE CHECK THE WIKI [WIKI](https://github.com/MaximeMichaud/tor-autoinstall/wiki/FAQ)**
