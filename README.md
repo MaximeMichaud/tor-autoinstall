@@ -13,13 +13,14 @@ The script support these OS:
 
 |        |   |
 |--------|---|
-| Debian 8 | ❌	  |
-| Debian 9 | ✅ |
-| Debian 10 | ✅ |
-| Ubuntu 16.04 | ❌  |
-| Ubuntu 18.04 | ❌  |
-| Ubuntu 20.04 | ❌  |
-| CentOS 7 | ❌  |
+| Debian 8 |❌|
+| Debian 9 |✅|
+| Debian 10 |✅|
+| Ubuntu 14.04 |❌|
+| Ubuntu 16.04 |❌|
+| Ubuntu 18.04 |❌|
+| Ubuntu 20.04 |❌|
+| CentOS 7 |❌|
 
 |        |   |
 |--------|---|
@@ -33,4 +34,4 @@ The script support these OS:
 ## To-Do
 https://github.com/MaximeMichaud/tor-autoinstall/projects/2
 ## FAQ
-**PLEASE CHECK THE WIKI [WIKI](https://github.com/MaximeMichaud/tor-autoinstall/wiki/FAQ)**
+**[WIKI](https://github.com/MaximeMichaud/tor-autoinstall/wiki/FAQ)**
